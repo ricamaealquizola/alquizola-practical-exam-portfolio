@@ -1,0 +1,10 @@
+1. **What is backend development?**
+   Backend development involves creating the server-side logic, databases, and APIs that power web applications. It handles data storage, security, authentication, and communication between the frontend and the server.
+
+2. **Give 2 examples of backend frameworks.**
+
+   * **Node.js (Express)**
+   * **Django (Python)**
+
+3. **What is an API?**
+   An API (Application Programming Interface) is a set of rules and protocols that allow different software applications to communicate with each other, enabling data exchange and interaction between systems.
